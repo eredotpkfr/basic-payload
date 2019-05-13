@@ -20,7 +20,8 @@ def KeyBoard(event):
     list.append("     0=={:::::::::::::::>     ")               # My Twitter Account ==> "https://twitter.com/YoksulErdogan"
     list.append(event.Key)                                      # My GitHub Account ==> "https://github.com/eredotpkfr"
     list.append("\n")                                           # My İnstagram Account ==> "https://www.instagram.com/eredot_pk.fr/?hl=tr"
-    return True                                                 # Eredot41_PK&FR          0=={:::::::::::::::::::>
+    return True                                                 # Follow Me On My Blog (https://www.erdoganyoksul.com/)
+                                                                # Eredot41_PK&FR          0=={:::::::::::::::::::>
 
 # -------- ScreenShot -------- #
 
@@ -142,6 +143,7 @@ function_get_machine_ip.start()
                     # My GitHub Account ==> "https://github.com/eredotpkfr"
                     # My İnstagram Account ==> "https://www.instagram.com/eredot_pk.fr/?hl=tr"
                     # My Linkedin Account ==> "https://www.linkedin.com/in/erdo%C4%9Fan-yoksul-47897a151/"
+                    # Follow Me On My Blog (https://www.erdoganyoksul.com/)
                     # Eredot41_PK&FR          0=={:::::::::::::::::::>
 
 
