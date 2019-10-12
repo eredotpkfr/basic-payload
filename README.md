@@ -10,7 +10,7 @@ print("Coding Hacking Tools With Python 3.5 \t xD")
 5. Leak The Target Machine.
 6. Finally Read The Incoming Data In Your E-mail Address.
 
-#### How To Work ?
+#### How Does It Work ?
 You've Heard Some Hackers.Hackers Are Use Some Scripts And Hacking Tools.I Wrote Hacker Tool This Tool Include Some Feature !.
 For Example It Phishing Machine IP and External IP (Location Identify And IP Detail With Using External IP),It Takes ScreenShot and Saves The User's Click The Button(KeyLogger),Finally Send E-mail To Your E-mail.
 
