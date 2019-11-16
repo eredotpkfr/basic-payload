@@ -21,7 +21,7 @@ For Example It Phishing Machine IP and External IP (Location Identify And IP Det
 * Follow Me On Twitter (https://twitter.com/YoksulErdogan?lang=tr).
 * Follow Me On Instagram (https://www.instagram.com/eredot_pk.fr/)
 * Follow Me On GitHub (https://github.com/eredotpkfr)
-* Follow Me On Linkedin (https://www.linkedin.com/in/erdo%C4%9Fan-yoksul-47897a151/)
+* Follow Me On Linkedin (https://www.linkedin.com/in/eredotpkfr/)
 * Follow Me On My Blog (https://www.erdoganyoksul.com/)
 
 `0=={::::::::::::::::>`
